@@ -1,1 +1,9 @@
-linha um
+Criando Branch 
+
+#git branch trabalhando master
+
+Enviando
+# git push origen trabalhando
+
+Alternando Pasta
+#git checkout master ou  #git checkout trabalhando
