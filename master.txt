@@ -3,7 +3,7 @@ Criando Branch
 #git branch trabalhando master
 
 Enviando
-# git push origen trabalhando
+# git push origin trabalhando
 
 Alternando Pasta
 #git checkout master ou  #git checkout trabalhando
