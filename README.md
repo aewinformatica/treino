@@ -10,3 +10,4 @@ Enviando
 
 Alternando Pasta
 #git checkout master ou  #git checkout trabalhando
+textp colocado localmente
