@@ -12,6 +12,6 @@ Alternando Pasta
 #git checkout master ou  #git checkout trabalhando
 textp colocado localmente /criando conflito web -FIX
 LOCAL + linha14
-
+MESCLAR LINHA 15 COM FIX
 
 
