@@ -10,4 +10,4 @@ Enviando
 
 Alternando Pasta
 #git checkout master ou  #git checkout trabalhando
-ALTERACAO LOCAL
+*LINHA 13 WEB + ALTERACAO LOCAL - FIX CONFLITO
