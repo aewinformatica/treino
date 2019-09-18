@@ -14,6 +14,7 @@ textp colocado localmente /criando conflito web -FIX
 LOCAL + linha14
 FIX COM git fetch origin master + MESCLAR LINHA 15 COM FIX
 * LINHA DEZESSEIS WEB + ALTERACAO LOCAL - CONFLICT FIX
-ALTERACAO LOCAL
+* LINHA 17 WEB + ALTERACAO LOCAL - CONFLICT FIX
+
 
 
